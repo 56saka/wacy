@@ -1,52 +1,60 @@
 <div align="center">
 
-# ⚡ WACY — PROJECT
+# WACY — PROJECT
 
-### `INFORMATION`
+### INFORMATION
 
-*A casual project created by **HeySaka.***
+**A casual project created by HeySaka.**
 
-<br>
-
-<img src="./assets/wacy-banner.png" width="100%" alt="Wacy Project Banner">
-
-<br>
-
-### `IDEAS  /  TRY  /  CREATE`
+`EXPERIMENTAL` · `CREATIVE` · `CONTINUOUSLY DEVELOPING`
 
 </div>
 
 ---
 
-## ✦ ABOUT
+## ABOUT
 
-**Wacy Project** adalah sebuah project eksperimental dan kreatif yang dibuat sebagai tempat untuk mencoba ide, membuat sesuatu yang baru, dan terus bereksplorasi.
+Wacy Project is a personal experimental space built around ideas,
+experimentation, development, and exploration.
 
-Tidak dibuat untuk menjadi sempurna.
+This project is not focused on a single purpose.
 
-Dibuat untuk **mencoba**.
+It is a place where different concepts can be tested, developed,
+reworked, abandoned, rebuilt, and eventually turned into something
+more meaningful.
 
-> **Small steps. Big ideas.**
+The main principle is simple:
+
+> **Think. Try. Create. Improve. Repeat.**
+
+Every project starts somewhere.
+
+Sometimes it starts with a complete idea.
+
+Sometimes it starts with a single line of code.
+
+Sometimes it starts with something that probably should not work.
+
+The point is to try.
 
 ---
 
-## ◈ EXPERIMENTAL & CREATIVE
-
-Tempat untuk berbagai eksperimen, konsep, dan project kecil.
+## PROJECT
 
 ```text
-        IDEA
-         │
-         ▼
-      EXPERIMENT
-         │
-         ▼
-        TRY
-         │
-         ▼
-       CREATE
-         │
-         ▼
-       IMPROVE
-         │
-         └──────────► REPEAT
+WACY PROJECT
+│
+├── IDEAS
+│   └── Concepts, thoughts, and experiments
+│
+├── DEVELOPMENT
+│   └── Code, systems, tools, and implementations
+│
+├── EXPERIMENTATION
+│   └── Testing new approaches and different concepts
+│
+├── CREATIVE
+│   └── Design, concepts, and unconventional ideas
+│
+└── EXPLORATION
+    └── Learning by building and breaking things
