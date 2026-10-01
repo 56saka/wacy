@@ -47,5 +47,12 @@
     "amount": 35000,
     "status": "confirmed",
     "time": "2026-10-01T20:55:48.425Z"
+  },
+  {
+    "buyerId": "6715004024",
+    "product": "admin",
+    "amount": 70000,
+    "status": "confirmed",
+    "time": "2026-10-01T21:08:58.699Z"
   }
 ]
